@@ -1,5 +1,5 @@
 {
-	"base": "https://www.mtgjson.com/files/",
+	"base": "https://mtgjson.com/api/v5/",
 
 	"files": {
 		"AllPrintings": {
